@@ -1,0 +1,1 @@
+candidate key is a super key whose proper subset is not a super key
